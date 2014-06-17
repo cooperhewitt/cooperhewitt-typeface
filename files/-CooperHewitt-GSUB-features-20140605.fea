@@ -1,0 +1,222 @@
+languagesystem dflt dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn ROM;
+
+#
+
+@class_MAJUSCULE = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE Oslash Aring Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Atilde Bdotaccent Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Dcaron Dcroat Ddotaccent Eth Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Fdotaccent Gbreve Gcircumflex Gcommaaccent Gdotaccent Hbar Hcircumflex Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ldot Lslash Mdotaccent Nacute Ncaron Ncommaaccent Ntilde Eng Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde OE Pdotaccent Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scircumflex Scommaaccent Eszett Tbar Tcaron Tcommaaccent Tdotaccent Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Ymacron IJ Zacute Zcaron Zdotaccent Thorn ];
+@class_MINISCULE = [ a b c d e f g h i j k l m n o p q r s t u v w x y z ae oslash aring aacute abreve acircumflex adieresis agrave amacron aogonek atilde bdotaccent cacute ccaron ccedilla ccircumflex cdotaccent dcaron dcroat ddotaccent eth eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek fdotaccent gbreve gcircumflex gcommaaccent gdotaccent hbar hcircumflex iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde jcircumflex kcommaaccent lacute lcaron lcommaaccent ldot lslash mdotaccent nacute ncaron ncommaaccent ntilde eng oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron otilde oe pdotaccent racute rcaron rcommaaccent sacute scaron scedilla scircumflex scommaaccent germandbls tbar tcaron tcommaaccent tdotaccent uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde wacute wcircumflex wdieresis wgrave yacute ycircumflex ydieresis ygrave ymacron ij zacute zcaron zdotaccent thorn ];
+@class_00_space = [ space ];
+@class_30_punc_low = [ period comma ellipsis ];
+@class_31_punc_xheight = [ colon semicolon ];
+@class_31_punc_french = [ colon semicolon question exclam guilsinglleft guilsinglright guillemotleft guillemotright guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap ];
+@class_32_quote_base = [ quotesinglbase quotedblbase ];
+@class_32_quote_high = [ quoteleft quotedblleft reversequoteleft reversequotedblleft ];
+@class_33_quote_highleft = [ quoteleft quotedblleft ];
+@class_33_quote_highrev = [ reversequoteleft reversequotedblleft ];
+@class_34_quote_right = [ quoteright quotedblright ];
+@class_35_punc_mid = [ periodcentered hyphen onethirdemdash endash threequarteremdash emdash figuredash uni2015 bullet ];
+@class_36_punc_cap = [ periodcentered.cap hyphen.cap onethirdemdash.cap endash.cap threequarteremdash.cap emdash.cap figuredash.cap uni2015.cap bullet.cap ];
+@class_37_paren_left = [ parenleft bracketleft braceleft anglebracketleft ];
+@class_38_paren_right = [ parenright bracketright braceright anglebracketright ];
+@class_39_paren_leftcap = [ parenleft.cap bracketleft.cap braceleft.cap anglebracketleft.cap ];
+@class_40_paren_rightcap = [ parenright.cap bracketright.cap braceright.cap anglebracketright.cap ];
+@class_50_punc_reg = [ exclam exclamdown question questiondown interrobang interrobangdown guilsinglleft guilsinglright guillemotleft guillemotright slash backslash bar doublebar brokenbar parenleft parenright bracketleft bracketright braceleft braceright anglebracketleft anglebracketright ];
+@class_51_punc_cap = [ exclam exclamdown.cap question questiondown.cap interrobang interrobangdown.cap guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap slash.cap backslash.cap bar.cap doublebar.cap brokenbar.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap anglebracketleft.cap anglebracketright.cap ];
+@class_accent_caron = [ dcaron lcaron ];
+@class_accent_comma = [ Scommaaccent scommaaccent ];
+@class_accent_cedilla = [ Scedilla scedilla ];
+@class_DF = [ zero one two three four five six seven eight nine ];
+@class_num = [ uni2070 onesuperior twosuperior threesuperior uni2074 uni2075 uni2076 uni2077 uni2078 uni2079 ];
+@class_dnom = [ uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089 ];
+@class_inf = [ zero.inf one.inf two.inf three.inf four.inf five.inf six.inf seven.inf eight.inf nine.inf ];
+@class_math = [ plus minus equal parenleft parenright ];
+@class_nummath = [ uni207A uni207B uni207C uni207D uni207E ];
+@class_dnommath = [ uni208A uni208B uni208C uni208D uni208E ];
+@class_infmath = [ plus.inf minus.inf equal.inf parenleft.inf parenright.inf ];
+@class_punc_DF = [ period comma colon semicolon ];
+@class_punc_T = [ period.T comma.T colon.T semicolon.T ];
+
+#
+
+@_notdef = [ .notdef ];
+@_kern_00_space = [ space ];
+@_kern_30_punc_low = [ period comma ellipsis ];
+@_kern_31_punc_xheight = [ colon semicolon ];
+@_kern_32_quote_base = [ quotesinglbase quotedblbase ];
+@_kern_32_quote_high = [ quoteleft quotedblleft reversequoteleft reversequotedblleft ];
+@_kern_34_quote_right = [ quoteright quotedblright ];
+@_kern_35_punc_mid = [ periodcentered hyphen onethirdemdash endash threequarteremdash emdash figuredash ];
+@_kern_36_punc_midcap = [ periodcentered.cap hyphen.cap onethirdemdash.cap endash.cap threequarteremdash.cap emdash.cap figuredash.cap ];
+@_kern_37_paren_left = [ parenleft bracketleft braceleft anglebracketleft ];
+@_kern_38_paren_right = [ parenright bracketright braceright anglebracketright ];
+@_kern_39_paren_leftcap = [ parenleft.cap bracketleft.cap braceleft.cap anglebracketleft.cap ];
+@_kern_40_paren_rightcap = [ parenright.cap bracketright.cap braceright.cap anglebracketright.cap ];
+@_kern_1uc_A = [ A Aring Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Atilde Anocross ];
+@_kern_1uc_AE = [ AE ];
+@_kern_1uc_B = [ B Bdotaccent ];
+@_kern_1uc_C = [ C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent ];
+@_kern_1uc_D = [ D Dcaron Dcroat Ddotaccent Eth ];
+@_kern_1uc_E = [ E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek ];
+@_kern_1uc_F = [ F Fdotaccent ];
+@_kern_1uc_G = [ G Gbreve Gcircumflex Gcommaaccent Gdotaccent ];
+@_kern_1uc_H = [ H Hbar Hcircumflex ];
+@_kern_1uc_I = [ I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde ];
+@_kern_1uc_J = [ J Jcircumflex ];
+@_kern_1uc_K = [ K Kcommaaccent ];
+@_kern_1uc_L = [ L Lacute Lcaron Lcommaaccent Ldot Lslash ];
+@_kern_1uc_M = [ M Mdotaccent ];
+@_kern_1uc_N = [ N Nacute Ncaron Ncommaaccent Ntilde Eng ];
+@_kern_1uc_O = [ O Oslash Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde ];
+@_kern_1uc_OE = [ OE ];
+@_kern_1uc_P = [ P Pdotaccent ];
+@_kern_1uc_Q = [ Q ];
+@_kern_1uc_R = [ R Racute Rcaron Rcommaaccent ];
+@_kern_1uc_S = [ S Sacute Scaron Scedilla Scircumflex Scommaaccent ];
+@_kern_1uc_Eszett = [ Eszett ];
+@_kern_1uc_T = [ T Tbar Tcaron Tcommaaccent Tdotaccent ];
+@_kern_1uc_U = [ U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde ];
+@_kern_1uc_V = [ V ];
+@_kern_1uc_W = [ W Wacute Wcircumflex Wdieresis Wgrave ];
+@_kern_1uc_X = [ X ];
+@_kern_1uc_Y = [ Y Yacute Ycircumflex Ydieresis Ygrave Ymacron ];
+@_kern_1uc_Z = [ Z Zacute Zcaron Zdotaccent ];
+@_kern_1uc_Thorn = [ Thorn ];
+@_kern_2lc_a = [ a aring aacute abreve acircumflex adieresis agrave amacron aogonek atilde ];
+@_kern_2lc_ae = [ ae ];
+@_kern_2lc_b = [ b bdotaccent eth ];
+@_kern_2lc_c = [ c cacute ccaron ccedilla ccircumflex cdotaccent ];
+@_kern_2lc_d = [ d dcaron dcroat ddotaccent ];
+@_kern_2lc_e = [ e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek ];
+@_kern_2lc_f = [ f fdotaccent ];
+@_kern_2lc_g = [ g gbreve gcircumflex gcommaaccent gdotaccent ];
+@_kern_2lc_h = [ h hbar hcircumflex ];
+@_kern_2lc_i = [ i iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde dotlessi ];
+@_kern_2lc_j = [ j jcircumflex dotlessj ];
+@_kern_2lc_k = [ k kcommaaccent ];
+@_kern_2lc_l = [ l lacute lcaron lcommaaccent ldot lslash ];
+@_kern_2lc_m = [ m mdotaccent ];
+@_kern_2lc_n = [ n nacute ncaron ncommaaccent ntilde eng kgreenlandic ];
+@_kern_2lc_o = [ o oslash oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron otilde ];
+@_kern_2lc_oe = [ oe ];
+@_kern_2lc_p = [ p pdotaccent ];
+@_kern_2lc_q = [ q ];
+@_kern_2lc_r = [ r racute rcaron rcommaaccent ];
+@_kern_2lc_s = [ s sacute scaron scedilla scircumflex scommaaccent ];
+@_kern_2lc_germandbls = [ germandbls ];
+@_kern_2lc_t = [ t tbar tcaron tcommaaccent tdotaccent ];
+@_kern_2lc_u = [ u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde ];
+@_kern_2lc_v = [ v ];
+@_kern_2lc_w = [ w wacute wcircumflex wdieresis wgrave ];
+@_kern_2lc_x = [ x ];
+@_kern_2lc_y = [ y yacute ycircumflex ydieresis ygrave ymacron ];
+@_kern_2lc_z = [ z zacute zcaron zdotaccent ];
+@_kern_2lc_thorn = [ thorn ];
+
+#
+#
+
+
+feature locl {
+    script latn;
+        language TRK exclude_dflt;
+            lookup IDOT {
+                sub i by idotaccent;
+            } IDOT;
+        language AZE exclude_dflt;
+            lookup IDOT;
+        language CRT exclude_dflt;
+            lookup IDOT;
+        language ROM exclude_dflt;
+            lookup SCEDILLA {
+                sub scedilla by scommaaccent;
+                sub Scedilla by Scommaaccent;
+            } SCEDILLA;
+} locl;
+feature frac { # Fractions
+ # Latin
+ sub zero slash zero zero by perthousand;
+ sub zero slash zero by percent;
+ sub one slash two by onehalf;
+ sub one slash three by uni2153;
+ sub one slash four by onequarter;
+ sub one slash five by uni2155;
+ sub one slash six by uni2159;
+ sub one slash eight by uni215B;
+ sub two slash three by uni2154;
+ sub two slash five by uni2156;
+ sub three slash four by threequarters;
+ sub three slash eight by uni215C;
+ sub four slash five by uni2158;
+ sub five slash six by uni215A;
+ sub five slash eight by uni215D;
+ sub seven slash eight by uni215E;
+ sub zero fraction zero zero by perthousand;
+ sub zero fraction zero by percent;
+ sub one fraction two by onehalf;
+ sub one fraction three by uni2153;
+ sub one fraction four by onequarter;
+ sub one fraction five by uni2155;
+ sub one fraction six by uni2159;
+ sub one fraction eight by uni215B;
+ sub two fraction three by uni2154;
+ sub two fraction five by uni2156;
+ sub three fraction four by threequarters;
+ sub three fraction eight by uni215C;
+ sub four fraction five by uni2158;
+ sub five fraction six by uni215A;
+ sub five fraction eight by uni215D;
+ sub seven fraction eight by uni215E;
+} frac;
+
+feature dlig { # Standard Ligatures
+ # Latin
+ sub exclam question by interrobang;
+ sub question exclam by interrobang;
+ sub exclamdown questiondown by interrobangdown;
+ sub questiondown exclamdown by interrobangdown;
+ sub exclamdown.cap questiondown.cap by interrobangdown.cap;
+ sub questiondown.cap exclamdown.cap by interrobangdown.cap;
+} dlig;
+feature case { # Case-Sensitive Forms
+ # Latin
+ sub @class_MINISCULE by @class_MAJUSCULE;
+ sub @class_35_punc_mid by @class_36_punc_cap;
+ sub @class_50_punc_reg by @class_51_punc_cap;
+ sub dotlessi by I;
+ sub dotlessj by J;
+ sub kgreenlandic by K;
+ sub uni00AD by hyphen.cap;
+} case;
+feature ss01 { # Reverse Left Quotes
+ # Latin
+ sub quoteleft by reversequoteleft;
+ sub quotedblleft by reversequotedblleft;
+} ss01;
+feature sups { # Superiors
+ # Latin
+ sub @class_DF by @class_num;
+ sub @class_math by @class_nummath;
+} sups;
+feature numr { # Numerators
+ sub @class_DF by @class_num;
+ sub @class_math by @class_nummath;
+} numr;
+feature dnom { # Denominators
+ sub @class_DF by @class_dnom;
+ sub @class_math by @class_dnommath;
+} dnom;
+feature sinf { # Scientific Inferiors
+ sub @class_DF by @class_inf;
+ sub @class_math by @class_infmath;
+} sinf;
+feature tnum { # Tabular Numerals
+ sub @class_DF period' @class_DF by period.T;
+ sub @class_DF comma' @class_DF by comma.T;
+ sub @class_DF colon' @class_DF by colon.T;
+ sub @class_DF semicolon' @class_DF by semicolon.T;
+} tnum;
+

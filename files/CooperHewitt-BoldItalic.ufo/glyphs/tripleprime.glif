@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tripleprime" format="1">
+  <advance width="628"/>
+  <unicode hex="2034"/>
+  <outline>
+    <contour>
+      <point x="100" y="780" type="line"/>
+      <point x="83" y="457" type="line"/>
+      <point x="204" y="457" type="line"/>
+      <point x="255" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="457" type="line"/>
+      <point x="437" y="780" type="line"/>
+      <point x="298" y="780" type="line"/>
+      <point x="264" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="780" type="line"/>
+      <point x="446" y="457" type="line"/>
+      <point x="567" y="457" type="line"/>
+      <point x="634" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

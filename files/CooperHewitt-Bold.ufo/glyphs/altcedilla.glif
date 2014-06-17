@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="altcedilla" format="1">
+  <advance width="602"/>
+  <unicode hex="E416"/>
+  <outline>
+    <contour>
+      <point x="286" y="-118" type="curve" smooth="yes"/>
+      <point x="286" y="-132"/>
+      <point x="274" y="-141"/>
+      <point x="239" y="-141" type="curve" smooth="yes"/>
+      <point x="213" y="-141"/>
+      <point x="183" y="-134"/>
+      <point x="167" y="-124" type="curve"/>
+      <point x="144" y="-190" type="line"/>
+      <point x="163" y="-202"/>
+      <point x="202" y="-215"/>
+      <point x="251" y="-215" type="curve" smooth="yes"/>
+      <point x="330" y="-215"/>
+      <point x="371" y="-184"/>
+      <point x="371" y="-127" type="curve" smooth="yes"/>
+      <point x="371" y="-67"/>
+      <point x="321" y="-40"/>
+      <point x="258" y="-40" type="curve" smooth="yes"/>
+      <point x="227" y="-40"/>
+      <point x="204" y="-45"/>
+      <point x="190" y="-50" type="curve"/>
+      <point x="190" y="-102" type="line"/>
+      <point x="196" y="-99"/>
+      <point x="219" y="-95"/>
+      <point x="239" y="-95" type="curve" smooth="yes"/>
+      <point x="271" y="-95"/>
+      <point x="286" y="-103"/>
+    </contour>
+  </outline>
+</glyph>

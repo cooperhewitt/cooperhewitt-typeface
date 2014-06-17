@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.cap" format="1">
+  <advance width="261"/>
+  <unicode hex="E463"/>
+  <outline>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="261" y="780" type="line"/>
+      <point x="107" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

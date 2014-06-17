@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fdotaccent" format="1">
+  <advance width="560"/>
+  <unicode hex="1E1E"/>
+  <outline>
+    <contour>
+      <point x="50" y="780" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="316" type="line"/>
+      <point x="490" y="316" type="line"/>
+      <point x="490" y="480" type="line"/>
+      <point x="240" y="480" type="line"/>
+      <point x="240" y="616" type="line"/>
+      <point x="540" y="616" type="line"/>
+      <point x="540" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="950" type="line"/>
+      <point x="220" y="950" type="line"/>
+      <point x="220" y="840" type="line"/>
+      <point x="370" y="840" type="line"/>
+    </contour>
+  </outline>
+</glyph>

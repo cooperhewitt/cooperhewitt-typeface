@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.cap" format="1">
+  <advance width="380"/>
+  <unicode hex="E492"/>
+  <outline>
+    <contour>
+      <point x="340" y="400" type="line" smooth="yes"/>
+      <point x="340" y="580"/>
+      <point x="285" y="705"/>
+      <point x="221" y="780" type="curve"/>
+      <point x="30" y="780" type="line"/>
+      <point x="85" y="700"/>
+      <point x="155" y="564"/>
+      <point x="155" y="400" type="curve" smooth="yes"/>
+      <point x="155" y="380" type="line" smooth="yes"/>
+      <point x="155" y="216"/>
+      <point x="85" y="80"/>
+      <point x="30" y="0" type="curve"/>
+      <point x="221" y="0" type="line"/>
+      <point x="285" y="75"/>
+      <point x="340" y="200"/>
+      <point x="340" y="380" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

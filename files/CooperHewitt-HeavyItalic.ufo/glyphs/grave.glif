@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="500"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="101" y="780" type="line"/>
+      <point x="187" y="590" type="line"/>
+      <point x="369" y="590" type="line"/>
+      <point x="303" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

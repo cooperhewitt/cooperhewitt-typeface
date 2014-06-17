@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="1">
+  <advance width="650"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="570" y="780" type="line"/>
+      <point x="532" y="780" type="line"/>
+      <point x="532" y="250" type="line"/>
+      <point x="535" y="60" type="line"/>
+      <point x="125" y="780" type="line"/>
+      <point x="80" y="780" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="530" type="line"/>
+      <point x="115" y="720" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="950" type="line"/>
+      <point x="304" y="840" type="line"/>
+      <point x="346" y="840" type="line"/>
+      <point x="408" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

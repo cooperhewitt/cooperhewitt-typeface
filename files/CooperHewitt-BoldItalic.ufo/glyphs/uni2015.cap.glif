@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2015.cap" format="1">
+  <advance width="1200"/>
+  <unicode hex="E488"/>
+  <outline>
+    <contour>
+      <point x="32" y="321" type="line"/>
+      <point x="1152" y="321" type="line"/>
+      <point x="1170" y="459" type="line"/>
+      <point x="50" y="459" type="line"/>
+    </contour>
+  </outline>
+</glyph>

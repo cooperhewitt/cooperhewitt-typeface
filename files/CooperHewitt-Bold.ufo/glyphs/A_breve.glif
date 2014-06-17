@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="1">
+  <advance width="641"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="209" y="782" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="225" y="168" type="line"/>
+      <point x="416" y="168" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="432" y="782" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="825" type="curve" smooth="yes"/>
+      <point x="467" y="825"/>
+      <point x="503" y="882"/>
+      <point x="503" y="950" type="curve"/>
+      <point x="394" y="950" type="line"/>
+      <point x="394" y="924"/>
+      <point x="373" y="910"/>
+      <point x="320" y="910" type="curve" smooth="yes"/>
+      <point x="267" y="910"/>
+      <point x="246" y="924"/>
+      <point x="246" y="950" type="curve"/>
+      <point x="137" y="950" type="line"/>
+      <point x="137" y="882"/>
+      <point x="173" y="825"/>
+    </contour>
+    <contour>
+      <point x="320" y="595" type="line"/>
+      <point x="384" y="308" type="line"/>
+      <point x="256" y="308" type="line"/>
+    </contour>
+  </outline>
+</glyph>

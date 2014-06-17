@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublebar.cap" format="1">
+  <advance width="327"/>
+  <unicode hex="E464"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="189" y="780" type="line"/>
+      <point x="119" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="314" y="780" type="line"/>
+      <point x="244" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

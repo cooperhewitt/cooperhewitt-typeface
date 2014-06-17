@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="1">
+  <advance width="968"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="874" y="0" type="line"/>
+      <point x="874" y="780" type="line"/>
+      <point x="94" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="345" type="line"/>
+      <point x="763" y="66" type="line"/>
+      <point x="205" y="66" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="714" type="line"/>
+      <point x="763" y="714" type="line"/>
+      <point x="484" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="390" type="line"/>
+      <point x="164" y="115" type="line"/>
+      <point x="164" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="390" type="line"/>
+      <point x="804" y="665" type="line"/>
+      <point x="804" y="115" type="line"/>
+    </contour>
+  </outline>
+</glyph>

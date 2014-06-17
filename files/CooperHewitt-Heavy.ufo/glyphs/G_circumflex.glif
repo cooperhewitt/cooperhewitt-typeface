@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcircumflex" format="1">
+  <advance width="680"/>
+  <unicode hex="011C"/>
+  <outline>
+    <contour>
+      <point x="350" y="-14" type="curve" smooth="yes"/>
+      <point x="490" y="-14"/>
+      <point x="571" y="28"/>
+      <point x="634" y="78" type="curve"/>
+      <point x="634" y="434" type="line"/>
+      <point x="350" y="434" type="line"/>
+      <point x="350" y="270" type="line"/>
+      <point x="444" y="270" type="line"/>
+      <point x="444" y="170" type="line"/>
+      <point x="421" y="157"/>
+      <point x="390" y="150"/>
+      <point x="355" y="150" type="curve" smooth="yes"/>
+      <point x="345" y="150" type="line" smooth="yes"/>
+      <point x="240" y="150"/>
+      <point x="226" y="235"/>
+      <point x="226" y="370" type="curve" smooth="yes"/>
+      <point x="226" y="410" type="line" smooth="yes"/>
+      <point x="226" y="545"/>
+      <point x="240" y="630"/>
+      <point x="340" y="630" type="curve" smooth="yes"/>
+      <point x="350" y="630" type="line" smooth="yes"/>
+      <point x="430" y="630"/>
+      <point x="445" y="570"/>
+      <point x="445" y="480" type="curve"/>
+      <point x="635" y="480" type="line"/>
+      <point x="635" y="519" type="line" smooth="yes"/>
+      <point x="635" y="720"/>
+      <point x="531" y="794"/>
+      <point x="340" y="794" type="curve" smooth="yes"/>
+      <point x="130" y="794"/>
+      <point x="33" y="680"/>
+      <point x="33" y="410" type="curve" smooth="yes"/>
+      <point x="33" y="370" type="line" smooth="yes"/>
+      <point x="33" y="100"/>
+      <point x="130" y="-14"/>
+    </contour>
+    <contour>
+      <point x="280" y="840" type="line"/>
+      <point x="340" y="879" type="line"/>
+      <point x="400" y="840" type="line"/>
+      <point x="565" y="840" type="line"/>
+      <point x="435" y="950" type="line"/>
+      <point x="245" y="950" type="line"/>
+      <point x="115" y="840" type="line"/>
+    </contour>
+  </outline>
+</glyph>

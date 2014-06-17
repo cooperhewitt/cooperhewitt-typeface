@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent.cap" format="1">
+  <advance width="500"/>
+  <unicode hex="E42E"/>
+  <outline>
+    <contour>
+      <point x="262" y="840" type="line"/>
+      <point x="361" y="840" type="line"/>
+      <point x="369" y="900" type="line"/>
+      <point x="318" y="900" type="line"/>
+      <point x="324" y="923"/>
+      <point x="352" y="930"/>
+      <point x="382" y="930" type="curve"/>
+      <point x="387" y="964" type="line"/>
+      <point x="313" y="964"/>
+      <point x="274" y="934"/>
+      <point x="267" y="878" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

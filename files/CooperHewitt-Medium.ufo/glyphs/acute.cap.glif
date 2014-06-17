@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="1">
+  <advance width="500"/>
+  <unicode hex="E422"/>
+  <outline>
+    <contour>
+      <point x="257" y="950" type="line"/>
+      <point x="199" y="840" type="line"/>
+      <point x="301" y="840" type="line"/>
+      <point x="364" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

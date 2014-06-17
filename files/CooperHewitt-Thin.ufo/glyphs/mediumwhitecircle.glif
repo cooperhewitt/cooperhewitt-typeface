@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mediumwhitecircle" format="1">
+  <advance width="670"/>
+  <unicode hex="26AA"/>
+  <outline>
+    <contour>
+      <point x="64" y="265" type="curve" smooth="yes"/>
+      <point x="64" y="115"/>
+      <point x="185" y="-6"/>
+      <point x="335" y="-6" type="curve" smooth="yes"/>
+      <point x="485" y="-6"/>
+      <point x="606" y="115"/>
+      <point x="606" y="265" type="curve" smooth="yes"/>
+      <point x="606" y="415"/>
+      <point x="485" y="536"/>
+      <point x="335" y="536" type="curve" smooth="yes"/>
+      <point x="185" y="536"/>
+      <point x="64" y="415"/>
+    </contour>
+    <contour>
+      <point x="84" y="265" type="curve" smooth="yes"/>
+      <point x="84" y="404"/>
+      <point x="196" y="516"/>
+      <point x="335" y="516" type="curve" smooth="yes"/>
+      <point x="474" y="516"/>
+      <point x="586" y="404"/>
+      <point x="586" y="265" type="curve" smooth="yes"/>
+      <point x="586" y="126"/>
+      <point x="474" y="14"/>
+      <point x="335" y="14" type="curve" smooth="yes"/>
+      <point x="196" y="14"/>
+      <point x="84" y="126"/>
+    </contour>
+  </outline>
+</glyph>

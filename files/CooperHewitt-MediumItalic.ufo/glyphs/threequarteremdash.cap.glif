@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarteremdash.cap" format="1">
+  <advance width="750"/>
+  <unicode hex="E485"/>
+  <outline>
+    <contour>
+      <point x="36" y="345" type="line"/>
+      <point x="706" y="345" type="line"/>
+      <point x="718" y="435" type="line"/>
+      <point x="48" y="435" type="line"/>
+    </contour>
+  </outline>
+</glyph>

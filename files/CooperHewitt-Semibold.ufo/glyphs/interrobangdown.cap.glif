@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="interrobangdown.cap" format="1">
+  <advance width="484"/>
+  <unicode hex="E99B"/>
+  <outline>
+    <contour>
+      <point x="200" y="564" type="line"/>
+      <point x="187" y="372"/>
+      <point x="21" y="391"/>
+      <point x="21" y="191" type="curve" smooth="yes"/>
+      <point x="21" y="83"/>
+      <point x="73" y="-13"/>
+      <point x="238" y="-13" type="curve" smooth="yes"/>
+      <point x="407" y="-13"/>
+      <point x="461" y="88"/>
+      <point x="461" y="252" type="curve" smooth="yes"/>
+      <point x="461" y="267" type="line"/>
+      <point x="342" y="267" type="line"/>
+      <point x="342" y="180"/>
+      <point x="327" y="128"/>
+      <point x="282" y="110" type="curve"/>
+      <point x="273" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="639" type="line"/>
+      <point x="306" y="639" type="line"/>
+      <point x="306" y="780" type="line"/>
+      <point x="164" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="205" type="curve" smooth="yes"/>
+      <point x="147" y="257"/>
+      <point x="178" y="299"/>
+      <point x="207" y="352" type="curve"/>
+      <point x="202" y="108" type="line"/>
+      <point x="161" y="121"/>
+      <point x="147" y="157"/>
+    </contour>
+  </outline>
+</glyph>

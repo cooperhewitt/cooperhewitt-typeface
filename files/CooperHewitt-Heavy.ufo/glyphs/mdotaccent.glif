@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mdotaccent" format="1">
+  <advance width="880"/>
+  <unicode hex="1E41"/>
+  <outline>
+    <contour>
+      <point x="836" y="0" type="line"/>
+      <point x="836" y="360" type="line" smooth="yes"/>
+      <point x="836" y="460"/>
+      <point x="791" y="544"/>
+      <point x="676" y="544" type="curve" smooth="yes"/>
+      <point x="599" y="544"/>
+      <point x="546" y="511"/>
+      <point x="514" y="463" type="curve"/>
+      <point x="490" y="511"/>
+      <point x="446" y="544"/>
+      <point x="375" y="544" type="curve" smooth="yes"/>
+      <point x="301" y="544"/>
+      <point x="250" y="514"/>
+      <point x="217" y="469" type="curve"/>
+      <point x="206" y="530" type="line"/>
+      <point x="40" y="530" type="line"/>
+      <point x="50" y="380" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="350" type="line"/>
+      <point x="244" y="365"/>
+      <point x="265" y="386"/>
+      <point x="300" y="386" type="curve" smooth="yes"/>
+      <point x="340" y="386"/>
+      <point x="351" y="360"/>
+      <point x="351" y="330" type="curve" smooth="yes"/>
+      <point x="351" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="535" y="350" type="line"/>
+      <point x="545" y="365"/>
+      <point x="566" y="386"/>
+      <point x="601" y="386" type="curve" smooth="yes"/>
+      <point x="641" y="386"/>
+      <point x="652" y="360"/>
+      <point x="652" y="330" type="curve" smooth="yes"/>
+      <point x="652" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="539" y="780" type="line"/>
+      <point x="349" y="780" type="line"/>
+      <point x="349" y="590" type="line"/>
+      <point x="539" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

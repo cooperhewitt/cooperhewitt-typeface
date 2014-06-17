@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="470"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="256" y="114" type="line"/>
+      <point x="142" y="114" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="792" type="curve" smooth="yes"/>
+      <point x="116" y="792"/>
+      <point x="67" y="687"/>
+      <point x="43" y="516" type="curve" smooth="yes"/>
+      <point x="42" y="509" type="line"/>
+      <point x="145" y="509" type="line"/>
+      <point x="155" y="620"/>
+      <point x="185" y="701"/>
+      <point x="275" y="701" type="curve" smooth="yes"/>
+      <point x="345" y="701"/>
+      <point x="371" y="664"/>
+      <point x="371" y="608" type="curve" smooth="yes"/>
+      <point x="371" y="461"/>
+      <point x="192" y="415"/>
+      <point x="175" y="203" type="curve"/>
+      <point x="244" y="203" type="line"/>
+      <point x="276" y="399"/>
+      <point x="476" y="407"/>
+      <point x="476" y="615" type="curve" smooth="yes"/>
+      <point x="476" y="727"/>
+      <point x="424" y="792"/>
+    </contour>
+  </outline>
+</glyph>

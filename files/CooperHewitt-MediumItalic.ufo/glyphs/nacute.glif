@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="1">
+  <advance width="545"/>
+  <unicode hex="0144"/>
+  <outline>
+    <contour>
+      <point x="369" y="780" type="line"/>
+      <point x="255" y="607" type="line"/>
+      <point x="357" y="607" type="line"/>
+      <point x="479" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="0" type="line"/>
+      <point x="488" y="365" type="line" smooth="yes"/>
+      <point x="500" y="459"/>
+      <point x="454" y="542"/>
+      <point x="340" y="542" type="curve" smooth="yes"/>
+      <point x="259" y="542"/>
+      <point x="200" y="508"/>
+      <point x="161" y="459" type="curve"/>
+      <point x="161" y="530" type="line"/>
+      <point x="75" y="530" type="line"/>
+      <point x="63" y="380" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="163" y="381" type="line"/>
+      <point x="185" y="410"/>
+      <point x="230" y="454"/>
+      <point x="298" y="454" type="curve" smooth="yes"/>
+      <point x="367" y="454"/>
+      <point x="394" y="412"/>
+      <point x="386" y="350" type="curve" smooth="yes"/>
+      <point x="340" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

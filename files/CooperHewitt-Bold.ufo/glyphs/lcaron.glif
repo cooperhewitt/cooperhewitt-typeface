@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="266"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="800" type="line"/>
+      <point x="54" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="800" type="line"/>
+      <point x="268" y="596" type="line"/>
+      <point x="338" y="596" type="line"/>
+      <point x="364" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>

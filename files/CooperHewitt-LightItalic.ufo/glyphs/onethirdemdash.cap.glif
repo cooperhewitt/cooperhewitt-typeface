@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onethirdemdash.cap" format="1">
+  <advance width="333"/>
+  <unicode hex="E483"/>
+  <outline>
+    <contour>
+      <point x="292" y="371" type="line"/>
+      <point x="297" y="409" type="line"/>
+      <point x="53" y="409" type="line"/>
+      <point x="48" y="371" type="line"/>
+    </contour>
+  </outline>
+</glyph>

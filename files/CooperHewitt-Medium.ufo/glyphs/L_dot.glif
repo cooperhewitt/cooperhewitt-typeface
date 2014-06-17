@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="1">
+  <advance width="501"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="92" type="line"/>
+      <point x="171" y="92" type="line"/>
+      <point x="171" y="780" type="line"/>
+      <point x="67" y="780" type="line"/>
+      <point x="67" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="456" type="line"/>
+      <point x="308" y="456" type="line"/>
+      <point x="308" y="340" type="line"/>
+      <point x="423" y="340" type="line"/>
+    </contour>
+  </outline>
+</glyph>

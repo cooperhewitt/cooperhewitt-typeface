@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="600"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="549" y="313" type="line"/>
+      <point x="569" y="467" type="line"/>
+      <point x="80" y="672" type="line"/>
+      <point x="60" y="521" type="line"/>
+      <point x="385" y="391" type="line"/>
+      <point x="26" y="261" type="line"/>
+      <point x="6" y="108" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright.cap" format="1">
+  <advance width="320"/>
+  <unicode hex="E452"/>
+  <outline>
+    <contour>
+      <point x="50" y="465" type="line"/>
+      <point x="147" y="390" type="line"/>
+      <point x="50" y="315" type="line"/>
+      <point x="50" y="155" type="line"/>
+      <point x="270" y="300" type="line"/>
+      <point x="270" y="480" type="line"/>
+      <point x="50" y="625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

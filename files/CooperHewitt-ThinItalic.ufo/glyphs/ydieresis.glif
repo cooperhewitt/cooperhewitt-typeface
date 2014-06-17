@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="460"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="186" y="44" type="line"/>
+      <point x="68" y="530" type="line"/>
+      <point x="47" y="530" type="line"/>
+      <point x="174" y="17" type="line"/>
+      <point x="63" y="-200" type="line"/>
+      <point x="85" y="-200" type="line"/>
+      <point x="192" y="17" type="line"/>
+      <point x="453" y="530" type="line"/>
+      <point x="430" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="720" type="line"/>
+      <point x="185" y="720" type="line"/>
+      <point x="180" y="680" type="line"/>
+      <point x="220" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="720" type="line"/>
+      <point x="325" y="720" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="360" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

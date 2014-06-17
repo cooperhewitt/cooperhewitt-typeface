@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="house" format="1">
+  <advance width="850"/>
+  <unicode hex="2302"/>
+  <outline>
+    <contour>
+      <point x="780" y="0" type="line"/>
+      <point x="780" y="450" type="line"/>
+      <point x="425" y="790" type="line"/>
+      <point x="70" y="450" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

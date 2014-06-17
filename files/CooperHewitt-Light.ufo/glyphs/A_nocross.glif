@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Anocross" format="1">
+  <advance width="600"/>
+  <unicode hex="E731"/>
+  <outline>
+    <contour>
+      <point x="270" y="790" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="300" y="750" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="330" y="790" type="line"/>
+    </contour>
+  </outline>
+</glyph>

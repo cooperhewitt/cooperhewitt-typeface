@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown.cap" format="1">
+  <advance width="484"/>
+  <unicode hex="E444"/>
+  <outline>
+    <contour>
+      <point x="238" y="103" type="curve" smooth="yes"/>
+      <point x="173" y="103"/>
+      <point x="154" y="141"/>
+      <point x="154" y="202" type="curve" smooth="yes"/>
+      <point x="154" y="307"/>
+      <point x="303" y="371"/>
+      <point x="290" y="564" type="curve"/>
+      <point x="200" y="564" type="line"/>
+      <point x="187" y="372"/>
+      <point x="21" y="391"/>
+      <point x="21" y="191" type="curve" smooth="yes"/>
+      <point x="21" y="83"/>
+      <point x="73" y="-13"/>
+      <point x="238" y="-13" type="curve" smooth="yes"/>
+      <point x="407" y="-13"/>
+      <point x="461" y="88"/>
+      <point x="461" y="252" type="curve" smooth="yes"/>
+      <point x="461" y="267" type="line"/>
+      <point x="329" y="267" type="line"/>
+      <point x="329" y="158"/>
+      <point x="308" y="103"/>
+    </contour>
+    <contour>
+      <point x="174" y="639" type="line"/>
+      <point x="316" y="639" type="line"/>
+      <point x="316" y="780" type="line"/>
+      <point x="174" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

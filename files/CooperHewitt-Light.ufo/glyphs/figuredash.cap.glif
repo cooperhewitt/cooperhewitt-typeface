@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash.cap" format="1">
+  <advance width="600"/>
+  <unicode hex="E487"/>
+  <outline>
+    <contour>
+      <point x="40" y="371" type="line"/>
+      <point x="560" y="371" type="line"/>
+      <point x="560" y="409" type="line"/>
+      <point x="40" y="409" type="line"/>
+    </contour>
+  </outline>
+</glyph>

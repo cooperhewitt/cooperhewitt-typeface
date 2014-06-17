@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.OP" format="1">
+  <advance width="300"/>
+  <unicode hex="E551"/>
+  <outline>
+    <contour>
+      <point x="17" y="528" type="line"/>
+      <point x="283" y="528" type="line"/>
+      <point x="283" y="642" type="line"/>
+      <point x="17" y="642" type="line"/>
+    </contour>
+  </outline>
+</glyph>

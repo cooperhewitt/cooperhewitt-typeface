@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="1">
+  <advance width="540"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="133" y="780" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="444" y="20" type="line"/>
+      <point x="54" y="20" type="line"/>
+      <point x="102" y="388" type="line"/>
+      <point x="441" y="388" type="line"/>
+      <point x="444" y="408" type="line"/>
+      <point x="105" y="408" type="line"/>
+      <point x="151" y="760" type="line"/>
+      <point x="540" y="760" type="line"/>
+      <point x="543" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="915" type="line"/>
+      <point x="341" y="915" type="line"/>
+      <point x="336" y="875" type="line"/>
+      <point x="376" y="875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

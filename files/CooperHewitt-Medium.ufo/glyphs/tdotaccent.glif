@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdotaccent" format="1">
+  <advance width="411"/>
+  <unicode hex="1E6B"/>
+  <outline>
+    <contour>
+      <point x="210" y="530" type="line"/>
+      <point x="210" y="680" type="line"/>
+      <point x="110" y="680" type="line"/>
+      <point x="110" y="530" type="line"/>
+      <point x="27" y="530" type="line"/>
+      <point x="27" y="441" type="line"/>
+      <point x="110" y="441" type="line"/>
+      <point x="110" y="160" type="line" smooth="yes"/>
+      <point x="110" y="34"/>
+      <point x="180" y="-12"/>
+      <point x="280" y="-12" type="curve" smooth="yes"/>
+      <point x="324" y="-12"/>
+      <point x="350" y="-4"/>
+      <point x="358" y="0" type="curve"/>
+      <point x="358" y="84" type="line"/>
+      <point x="350" y="81"/>
+      <point x="324" y="76"/>
+      <point x="303" y="76" type="curve" smooth="yes"/>
+      <point x="243" y="76"/>
+      <point x="210" y="94"/>
+      <point x="210" y="171" type="curve" smooth="yes"/>
+      <point x="210" y="441" type="line"/>
+      <point x="368" y="441" type="line"/>
+      <point x="368" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="816" type="line"/>
+      <point x="111" y="816" type="line"/>
+      <point x="111" y="734" type="line"/>
+      <point x="209" y="734" type="line"/>
+    </contour>
+  </outline>
+</glyph>

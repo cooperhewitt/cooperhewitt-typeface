@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ygrave" format="1">
+  <advance width="577"/>
+  <unicode hex="1EF2"/>
+  <outline>
+    <contour>
+      <point x="267" y="950" type="line"/>
+      <point x="314" y="840" type="line"/>
+      <point x="386" y="840" type="line"/>
+      <point x="341" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="236" type="line"/>
+      <point x="610" y="780" type="line"/>
+      <point x="529" y="780" type="line"/>
+      <point x="281" y="324" type="line"/>
+      <point x="149" y="780" type="line"/>
+      <point x="74" y="780" type="line"/>
+      <point x="235" y="236" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

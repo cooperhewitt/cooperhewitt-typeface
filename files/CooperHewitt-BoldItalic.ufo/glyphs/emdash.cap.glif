@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash.cap" format="1">
+  <advance width="1000"/>
+  <unicode hex="E486"/>
+  <outline>
+    <contour>
+      <point x="32" y="321" type="line"/>
+      <point x="952" y="321" type="line"/>
+      <point x="970" y="459" type="line"/>
+      <point x="50" y="459" type="line"/>
+    </contour>
+  </outline>
+</glyph>

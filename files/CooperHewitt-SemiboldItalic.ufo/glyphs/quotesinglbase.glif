@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="250"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="166" y="141" type="line"/>
+      <point x="24" y="141" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="62" y="-46"/>
+      <point x="32" y="-67"/>
+      <point x="-15" y="-67" type="curve"/>
+      <point x="-24" y="-135" type="line"/>
+      <point x="77" y="-135"/>
+      <point x="136" y="-80"/>
+      <point x="151" y="30" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

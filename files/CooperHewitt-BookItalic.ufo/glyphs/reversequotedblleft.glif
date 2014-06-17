@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversequotedblleft" format="1">
+  <advance width="363"/>
+  <unicode hex="201F"/>
+  <outline>
+    <contour>
+      <point x="116" y="780" type="line"/>
+      <point x="106" y="706" type="line" smooth="yes"/>
+      <point x="94" y="616"/>
+      <point x="132" y="571"/>
+      <point x="201" y="571" type="curve"/>
+      <point x="207" y="614" type="line"/>
+      <point x="165" y="614"/>
+      <point x="138" y="632"/>
+      <point x="146" y="690" type="curve"/>
+      <point x="194" y="690" type="line"/>
+      <point x="206" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="780" type="line"/>
+      <point x="252" y="706" type="line" smooth="yes"/>
+      <point x="240" y="616"/>
+      <point x="278" y="571"/>
+      <point x="347" y="571" type="curve"/>
+      <point x="353" y="614" type="line"/>
+      <point x="311" y="614"/>
+      <point x="284" y="632"/>
+      <point x="292" y="690" type="curve"/>
+      <point x="340" y="690" type="line"/>
+      <point x="352" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

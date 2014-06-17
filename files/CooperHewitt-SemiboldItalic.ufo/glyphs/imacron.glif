@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="250"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="20" y="633" type="line"/>
+      <point x="298" y="633" type="line"/>
+      <point x="313" y="748" type="line"/>
+      <point x="35" y="748" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="210" y="530" type="line"/>
+      <point x="80" y="530" type="line"/>
+    </contour>
+  </outline>
+</glyph>

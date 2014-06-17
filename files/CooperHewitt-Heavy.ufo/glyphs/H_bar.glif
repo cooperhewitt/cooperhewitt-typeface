@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="670"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="430" y="780" type="line"/>
+      <point x="430" y="700" type="line"/>
+      <point x="240" y="700" type="line"/>
+      <point x="240" y="780" type="line"/>
+      <point x="50" y="780" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="316" type="line"/>
+      <point x="430" y="316" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="620" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="480" type="line"/>
+      <point x="240" y="560" type="line"/>
+      <point x="430" y="560" type="line"/>
+      <point x="430" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

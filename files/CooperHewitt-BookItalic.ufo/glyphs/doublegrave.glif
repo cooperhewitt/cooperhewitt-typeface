@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublegrave" format="1">
+  <advance width="500"/>
+  <unicode hex="E412"/>
+  <outline>
+    <contour>
+      <point x="115" y="780" type="line"/>
+      <point x="188" y="614" type="line"/>
+      <point x="251" y="614" type="line"/>
+      <point x="183" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="780" type="line"/>
+      <point x="311" y="614" type="line"/>
+      <point x="374" y="614" type="line"/>
+      <point x="312" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.cap" format="1">
+  <advance width="445"/>
+  <unicode hex="E466"/>
+  <outline>
+    <contour>
+      <point x="406" y="551" type="line"/>
+      <point x="85" y="551" type="line"/>
+      <point x="43" y="229" type="line"/>
+      <point x="364" y="229" type="line"/>
+    </contour>
+  </outline>
+</glyph>

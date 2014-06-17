@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdotaccent" format="1">
+  <advance width="557"/>
+  <unicode hex="1E6A"/>
+  <outline>
+    <contour>
+      <point x="359" y="640" type="line"/>
+      <point x="540" y="640" type="line"/>
+      <point x="540" y="780" type="line"/>
+      <point x="17" y="780" type="line"/>
+      <point x="17" y="640" type="line"/>
+      <point x="197" y="640" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="945" type="line"/>
+      <point x="211" y="945" type="line"/>
+      <point x="211" y="845" type="line"/>
+      <point x="345" y="845" type="line"/>
+    </contour>
+  </outline>
+</glyph>

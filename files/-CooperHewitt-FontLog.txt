@@ -1,0 +1,100 @@
+Font Log
+Cooper Hewitt Typeface
+/ / / / / / / / / /
+
+This file provides information on the Cooper Hewitt typeface. This information should be distributed along with the Cooper Hewitt fonts and any derivative works.
+
+
+Basic Font Information
+/ / / / / / / / / /
+
+Cooper Hewitt is a Unicode sans serif typeface family, created for the Cooper Hewitt Smithsonian Design Museum - cooperhewitt.org - in 2014 as part of the museum's new visual identity.
+
+The typeface was designed by Chester Jenkins at Village Type and Design LLC, working with Eddie Opara and his group at Pentagram, and Cooper Hewitt Smithsonian Design Museum director Caroline Baumann and her team. 
+
+The typeface at June 2014 has 7 weights in roman and italic, in the Latin script only.
+
+
+Supported Codepages and Languages
+/ / / / / / / / / /
+
+ISO 8859-1 / LATIN1
+Afrikaans, Albanian, Basque, Breton, Catalan, Catalan, Corsican, Czech, Danish, Dutch, English (UK and US), Estonian, Faroese, Finnish, French, Galician, German, Hungarian, Icelandic, Indonesian, Irish, Irish (new orthography), Italian, Latin (basic classical orthography), Leonese, Luxembourgish (basic classical orthography), Malay, Manx, Māori, Norwegian (Bokmål and Nynorsk), Occitan, Portuguese, Rhaeto-Romanic, Scottish Gaelic, Spanish, Swahili, Swedish, Turkish, Walloon, Welsh
+
+ISO 8859-2 / LATIN2
+Bosnian, Croatian, Czech, German, Hungarian, Polish, Romanian, Serbian (when in the Latin script), Slovak, Slovene, Upper Sorbian, and Lower Sorbian
+
+ISO 8859-3 / LATIN3
+South European: Esperanto, Maltese, Turkish
+
+ISO 8859-4 / LATIN4
+North European: Estonian, Greenlandic, Latvian, Lithuanian, Sami
+
+ISO 8859-9 / LATIN5
+Turkish
+
+ISO 8859-10 / LATIN6
+Nordic
+
+ISO 8859-13 / LATIN7
+Baltic Rim
+
+ISO 8859-14 / LATIN8
+Celtic: Breton, Cornish, Irish, Manx, Scottish Gaelic, Welsh
+
+ISO 8859-15 / LATIN9
+Afrikaans, Albanian, Breton, Catalan, Danish, Dutch, English (US and modern British), Estonian, Faroese, Finnish, French, Galician, German, Icelandic, Irish (New orthography), Italian, Kurdish (Unified Alphabet), Latin (basic classical orthography), Luxembourgish (basic classical orthography), Malay (Rumi script), Norwegian (Bokmål and Nynorsk), Occitan, Portuguese (European and Brazilian), Rhaeto-Romanic, Scottish Gaelic, Scots, Spanish, Swahili, Swedish, Tagalog, Walloon
+
+ISO 8859-16 / LATIN10
+Albanian, Croatian, French, German, Hungarian, Irish Gaelic (new orthography), Italian, Polish, Romanian, Serbian, Slovenian
+
+
+Change Log
+/ / / / / / / / / /
+(This should list both major and minor changes, most recent first.)
+
+2014/06/16
+Initial release.
+
+
+Information for Developers/Contributors
+/ / / / / / / / / /
+
+The release of Cooper Hewitt v1.000 (and any subsequent versions) under the OFL license provides a means for people to modify the fonts to meet their needs and contribute to the project. For information on what you're allowed to
+change or modify, consult the OFL and OFL-FAQ.
+
+Anyone can make their own modified version of Cooper Hewitt (using a different name), but Cooper Hewitt Smithsonian Design Museum and Village Type and Design LLC will continue to maintain and develop the canonical version of the Cooper Hewitt typeface. As the package maintainer, we welcome contributions. Here are some things to keep in mind:
+
+Format: We are happy to accept contributions, but to maximise the chances of us including your work, please make it available to us (via email or a URL) as a UFO file.
+
+Source files: The primary source files for the fonts are the UFO files.
+
+Copyright attribution: If you submit something for inclusion in the main Cooper Hewitt fonts, we will ask you to affirm that it is your original work, and ask you to assign the copyright of your work to Cooper Hewitt Smithsonian Design Museum. This is to ensure that future releases can be made under improved versions of the OFL without requiring further permission. This follows
+the same principle used by the FSF. The Cooper Hewitt typeface is property of a not-for-profit organization committed to the dissemination of knowledge and information, and that any contributions incorporated in the fonts will always be available under the OFL or a similar license.
+
+Quality: Because we want to be able to guarantee a high level of quality for the primary Cooper Hewitt typeface, we will review submissions carefully. Please don't be discouraged if we do not include a submission for this reason, or ask you to make specific revisions, or make revisions we deem necessary or desirable.
+
+Types of contributions: If you wish to make a contribution - a set of additional glyphs, scripts, code, etc. - please contact us before you do any work to see if it is a contribution we currently need. Every addition adds to the complexity of the project and needs to be carefully planned. This also avoids two people working on the same type of addition at the same time.
+
+When submissions will be included: We will revise the fonts when major updates are needed - new versions of Unicode, for example - and/or when we have material for a useful addition to the typeface. If you wish to make submissions, please contact us. 
+
+
+Acknowledgements
+/ / / / / / / / / /
+
+(Here is where contributors can be acknowledged. If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D). This list is sorted by last name in alphabetical order.)
+
+N: Chester Jenkins
+E: chester@vllg.com
+W: http://vllg.com/
+D: Original Designer
+
+N: Tal Leming
+E: tal@typesupply.com
+W: http://typesupply.com/
+D: UFO file preparation
+
+The Cooper Hewitt typeface is maintained by Village Type and Design LLC: CooperHewitt@vllg.com
+
+(We acknowledge SIL, the company behind the Open Font License (OFL); this Font Log is based on the Fontlog created for the Gentium typeface project.)
+

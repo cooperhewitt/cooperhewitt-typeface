@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2076" format="1">
+  <advance width="300"/>
+  <unicode hex="2076"/>
+  <outline>
+    <contour>
+      <point x="313" y="786" type="line"/>
+      <point x="243" y="786"/>
+      <point x="174" y="768"/>
+      <point x="122" y="710" type="curve" smooth="yes"/>
+      <point x="78" y="661"/>
+      <point x="54" y="609"/>
+      <point x="45" y="536" type="curve" smooth="yes"/>
+      <point x="44" y="528" type="line" smooth="yes"/>
+      <point x="33" y="437"/>
+      <point x="74" y="383"/>
+      <point x="157" y="383" type="curve" smooth="yes"/>
+      <point x="235" y="383"/>
+      <point x="285" y="432"/>
+      <point x="294" y="507" type="curve" smooth="yes"/>
+      <point x="295" y="515" type="line" smooth="yes"/>
+      <point x="305" y="596"/>
+      <point x="259" y="636"/>
+      <point x="199" y="636" type="curve" smooth="yes"/>
+      <point x="164" y="636"/>
+      <point x="137" y="623"/>
+      <point x="119" y="606" type="curve"/>
+      <point x="128" y="631"/>
+      <point x="141" y="655"/>
+      <point x="163" y="678" type="curve" smooth="yes"/>
+      <point x="203" y="719"/>
+      <point x="253" y="736"/>
+      <point x="307" y="736" type="curve"/>
+    </contour>
+    <contour>
+      <point x="183" y="586" type="line" smooth="yes"/>
+      <point x="223" y="586"/>
+      <point x="245" y="561"/>
+      <point x="239" y="515" type="curve" smooth="yes"/>
+      <point x="238" y="507" type="line" smooth="yes"/>
+      <point x="231" y="455"/>
+      <point x="196" y="433"/>
+      <point x="160" y="433" type="curve" smooth="yes"/>
+      <point x="154" y="433" type="line" smooth="yes"/>
+      <point x="116" y="433"/>
+      <point x="96" y="459"/>
+      <point x="97" y="502" type="curve" smooth="yes"/>
+      <point x="97" y="518"/>
+      <point x="100" y="533"/>
+      <point x="101" y="541" type="curve"/>
+      <point x="118" y="567"/>
+      <point x="147" y="586"/>
+      <point x="177" y="586" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

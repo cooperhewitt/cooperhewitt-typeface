@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagdn" format="1">
+  <advance width="930"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="430" y="-11" type="line"/>
+      <point x="500" y="-11" type="line"/>
+      <point x="866" y="780" type="line"/>
+      <point x="794" y="780" type="line"/>
+      <point x="465" y="64" type="line"/>
+      <point x="136" y="780" type="line"/>
+      <point x="64" y="780" type="line"/>
+    </contour>
+  </outline>
+</glyph>

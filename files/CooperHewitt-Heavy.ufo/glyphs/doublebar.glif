@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublebar" format="1">
+  <advance width="500"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="50" y="-120" type="line"/>
+      <point x="230" y="-120" type="line"/>
+      <point x="230" y="840" type="line"/>
+      <point x="50" y="840" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="-120" type="line"/>
+      <point x="450" y="-120" type="line"/>
+      <point x="450" y="840" type="line"/>
+      <point x="270" y="840" type="line"/>
+    </contour>
+  </outline>
+</glyph>

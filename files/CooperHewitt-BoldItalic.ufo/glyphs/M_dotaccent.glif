@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mdotaccent" format="1">
+  <advance width="869"/>
+  <unicode hex="1E40"/>
+  <outline>
+    <contour>
+      <point x="576" y="945" type="line"/>
+      <point x="443" y="945" type="line"/>
+      <point x="430" y="845" type="line"/>
+      <point x="563" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="499" type="line"/>
+      <point x="645" y="322" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="867" y="780" type="line"/>
+      <point x="618" y="780" type="line"/>
+      <point x="416" y="281" type="line"/>
+      <point x="345" y="780" type="line"/>
+      <point x="109" y="780" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="211" y="322" type="line"/>
+      <point x="229" y="499" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

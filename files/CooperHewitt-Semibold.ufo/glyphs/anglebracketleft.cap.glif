@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anglebracketleft.cap" format="1">
+  <advance width="350"/>
+  <unicode hex="E497"/>
+  <outline>
+    <contour>
+      <point x="304" y="780" type="line"/>
+      <point x="169" y="780" type="line"/>
+      <point x="33" y="390" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="168" y="390" type="line"/>
+    </contour>
+  </outline>
+</glyph>
