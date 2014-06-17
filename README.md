@@ -2,9 +2,7 @@
 
 Cooper Hewitt: The Typeface created by Chester Jenkins
 
-Licesed under SIL Open Font License
-
-* https://github.com/cooperhewitt/cooperhewitt-typeface/blob/master/files/-OFL-FAQ.txt
+Licensed under SIL Open Font License
 
 ## See also
 
