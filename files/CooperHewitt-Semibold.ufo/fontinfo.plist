@@ -170,9 +170,9 @@
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
 	<key>styleMapFamilyName</key>
-	<string>Cooper Hewitt</string>
+	<string>Cooper Hewitt Light</string>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>bold</string>
 	<key>styleName</key>
 	<string>Semibold</string>
 	<key>trademark</key>
