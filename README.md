@@ -2,7 +2,16 @@
 
 Cooper Hewitt: The Typeface created by Chester Jenkins
 
-Licensed under SIL Open Font License (http://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web)
+Licensed under [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web).
+
+## Building the fonts
+
+Build dependencies: [Python](https://www.python.org/), [Robofab](https://github.com/robofab-developers/robofab)
+and [ufo2fdk](https://github.com/typesupply/ufo2fdk).
+
+~~~
+python build.py [debug]
+~~~
 
 ## See also
 
