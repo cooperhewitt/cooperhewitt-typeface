@@ -1,6 +1,6 @@
 # cooperhewitt-typeface
 
-Cooper Hewitt: The Typeface created by Chester Jenkins
+Cooper Hewitt: The Typeface created by <a href="http://vllg.com/news/214">Chester Jenkins</a>
 
 Licensed under SIL Open Font License (http://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web)
 
