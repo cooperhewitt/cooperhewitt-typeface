@@ -1,3 +1,4 @@
+from __future__ import print_function
 from ufo2fdk import OTFCompiler
 from ufo2fdk.makeotfParts import MakeOTFPartsCompiler
 from robofab.world import OpenFont
@@ -13,5 +14,5 @@ for w in weights:
     compiler = OTFCompiler(savePartsNextToUFO = len(sys.argv)>1 and sys.argv[1] == "debug")
     reports = compiler.compile(font, family + "-" + w + ".otf", checkOutlines=False, autohint=True, releaseMode=True)
 
-    print reports["autohint"]
-    print reports["makeotf"]
+    print(reports["autohint"])
+    print(reports["makeotf"])
