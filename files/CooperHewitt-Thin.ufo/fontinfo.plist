@@ -127,7 +127,7 @@
 	<key>openTypeOS2VendorID</key>
 	<string>VLLG</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>701</integer>
+	<integer>100</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
